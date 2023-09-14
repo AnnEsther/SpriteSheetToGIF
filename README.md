@@ -1,6 +1,9 @@
 # SpriteSheetToGIF
 Convert multiple sprite sheets of the same dimensions, delay, and loop to GIF.
 
+Requirement:
+ Install ImageMagick, https://imagemagick.org/
+
 
 1. Edit the .bat file to the required parameters.
  
